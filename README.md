@@ -9,7 +9,7 @@ Repositorio académico para almacenar y versionar **parciales, ejercicios, soluc
 
 - **Integrante 1:** Luis Felipe Pico Gutiérrez — luispico261741@correo.itm.edu.co
 - **Integrante 2:** Luis Guillermo González Ayala — luisgonzalez68694@correo.itm.edu.co
-- **Integrante 3:** Yehicol Andrés Hincapie Hoyos — Correo 
+- **Integrante 3:** Yehicol Andrés Hincapie Hoyos — Yehicolhincapie316555@correo.itm.edu.co 
 - **Integrante 4:** Kevin Santiago Martinez Molina — kevinmartinez214003@correo.itm.edu.co
 
 ## 🎯 Objetivo del repositorio
