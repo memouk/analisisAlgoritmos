@@ -28,18 +28,20 @@ Ejemplo basado en la estructura actual:
 
 ```
 ANALISISALGORITMOS/
-└── Parcial 1/
-    ├── Ejercicio 1/
-    ├── Ejercicio 2/
-    │   ├── ejercicio2.py
-    │   ├── ejercicio2FuerzaBruta.png
-    │   └── ejercicio2Optimo.png
-    ├── Ejercicio 3/
-    │   ├── Ejercicio3.py
-    │   ├── Solución fuerza bruta.png
-    │   └── Solución optima.png
-    ├── Ejercicio 4/
-    └── README.md
+├── Parcial 1/
+│   ├── Ejercicio 1/
+│   ├── Ejercicio 2/
+│   ├── Ejercicio 3/
+│   ├── Ejercicio 4/
+│   └── README.md
+├── Parcial 2/
+│   ├── Ejercicio 1/
+│   ├── Ejercicio 2/
+│   ├── Ejercicio 3/
+│   ├── Ejercicio 4/
+│   ├── Ejercicio 5/
+│   └── README.md
+└── README.md
 ```
 
 ✅ **Convención recomendada por ejercicio**
@@ -83,12 +85,15 @@ En cada ejercicio se recomienda incluir:
 2. **Estrategia / enfoque**:
    - Fuerza bruta (si aplica)
    - Optimización (DP, Greedy, Divide & Conquer, etc.)
-3. **Complejidad computacional**:
+3. **Justificación de la solución**:
+   - Explicación breve del criterio usado
+   - Razón por la cual el enfoque produce una solución correcta
+4. **Complejidad computacional**:
    - Tiempo: `O(...)`
    - Memoria: `O(...)`
-4. **Evidencias**:
+5. **Evidencias**:
    - Capturas o diagramas en `.png`
-5. **Código ejecutable** (`.py`) con entradas/salidas claras.
+6. **Código ejecutable** (`.py`) con entradas/salidas claras.
 
 ## ✅ Estándares mínimos de código
 
@@ -96,6 +101,7 @@ En cada ejercicio se recomienda incluir:
 - Comentarios solo donde agreguen valor (no redundantes).
 - Evitar “magic numbers” (usar constantes cuando tenga sentido).
 - Separar lógica en funciones para facilitar pruebas y lectura.
+- Incluir análisis de complejidad cuando aplique.
 
 ---
 
@@ -118,11 +124,10 @@ Los ejercicios y retos prácticos de este repositorio se basan en problemas de *
 
 
 ## 📌 Estado (✅/🟡/❌)
-- Parcial 1: En progreso 🟡
-
+- **Parcial 1:** En progreso ✅
+- **Parcial 2:** Completado ✅
 
 ## 📫 Contacto
 
-- Docente: 
-ALEJANDRO SALGAR MARÍN
-- Universidad/Institución: alejandrosalgar2487@correo.itm.edu.co
+- **Docente:** Alejandro Salgar Marín
+- **Correo institucional:** alejandrosalgar2487@correo.itm.edu.co
