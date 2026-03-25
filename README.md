@@ -32,15 +32,19 @@ ANALISISALGORITMOS/
 │   ├── Ejercicio 1/
 │   ├── Ejercicio 2/
 │   ├── Ejercicio 3/
-│   ├── Ejercicio 4/
-│   └── README.md
+│   └── Ejercicio 4/    
 ├── Parcial 2/
 │   ├── Ejercicio 1/
 │   ├── Ejercicio 2/
 │   ├── Ejercicio 3/
 │   ├── Ejercicio 4/
-│   ├── Ejercicio 5/
-│   └── README.md
+│   └── Ejercicio 5/
+├── Parcial 3/
+│   ├── Ejercicio 1/
+│   ├── Ejercicio 2/
+│   ├── Ejercicio 3/
+│   ├── Ejercicio 4/
+│   └── Ejercicio 5/
 └── README.md
 ```
 
